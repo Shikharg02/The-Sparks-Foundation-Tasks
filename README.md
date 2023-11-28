@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( November-2023 )
 - **Internship Type** - Work from Home
 
-[<img align = right height = 50 width = 50 src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw39gWc9TGttv0q5P9bn3wSG&ust=1701223205216000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOiI7rnM5YIDFQAAAAAdAAAAABAE>](https://www.linkedin.com/posts/activity-7135067819926245376-ZIaO?utm_source=share&utm_medium=member_desktop)
+[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135067819926245376-ZIaO?utm_source=share&utm_medium=member_desktop)
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
@@ -18,7 +18,7 @@ This repository contains the tasks that I completed while working as an intern f
 – You can use R, Python, SAS Enterprise Miner or any other tool.
 – What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw39gWc9TGttv0q5P9bn3wSG&ust=1701223205216000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOiI7rnM5YIDFQAAAAAdAAAAABAE>](https://www.linkedin.com/posts/activity-7135077611528962048-zerh?utm_source=share&utm_medium=member_desktop)
+[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135077611528962048-zerh?utm_source=share&utm_medium=member_desktop)
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
@@ -26,7 +26,7 @@ This repository contains the tasks that I completed while working as an intern f
 – Use R or Python or perform this task.
 – Data can be found at https://bit.ly/3cGyP8j
 
-[<img align = right height = 50 width = 50 src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw39gWc9TGttv0q5P9bn3wSG&ust=1701223205216000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOiI7rnM5YIDFQAAAAAdAAAAABAE>](https://www.linkedin.com/posts/activity-7135081754440179712-dzEi?utm_source=share&utm_medium=member_desktop)
+[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135081754440179712-dzEi?utm_source=share&utm_medium=member_desktop)
 
 # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 
