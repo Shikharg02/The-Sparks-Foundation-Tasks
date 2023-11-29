@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 [<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135067819926245376-ZIaO?utm_source=share&utm_medium=member_desktop)
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
-Click on the right icon to my linkedin page
+<i>Click on the right icon to my linkedin page</i>
 
 - Predict the percentage of marks of an student based on the number of study hours.
 - This is a simple linear regression task as it involves just 2 variables.
@@ -23,7 +23,7 @@ Click on the right icon to my linkedin page
 [<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135077611528962048-zerh?utm_source=share&utm_medium=member_desktop)
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
-Click on the right icon to my linkedin page
+<i>Click on the right icon to my linkedin page</i>
 
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - Use R or Python or perform this task.
@@ -32,7 +32,7 @@ Click on the right icon to my linkedin page
 [<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png>](https://www.linkedin.com/posts/activity-7135081754440179712-dzEi?utm_source=share&utm_medium=member_desktop)
 
 # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
-Click on the right icon to my linkedin page
+<i>Click on the right icon to my linkedin page</i>
 
 - Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 - As a business manager, try to find out the weak areas where you can work to make more profit.
